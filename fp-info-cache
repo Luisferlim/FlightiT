@@ -1,4 +1,4 @@
-25901113084497405
+25902869780685428
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56965,6 +56965,13 @@ TO-263-5_L10.2-W8.9-P1.70-TL footprint C10002
 0
 13
 6
+CriarCE
+TO127P1435X464-8N
+
+
+0
+8
+8
 CriarCE
 TQFP-32_7x7mm_P0.8mm
 32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
